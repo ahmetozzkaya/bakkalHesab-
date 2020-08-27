@@ -1,0 +1,2 @@
+# bakkalHesab-
+Bakkal Tahmin Uygulaması
